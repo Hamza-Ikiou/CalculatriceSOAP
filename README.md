@@ -6,7 +6,7 @@ The following configuration instructions are for an IDE. Command-line configurat
 
 ## Prerequisites
 
-This application was developed in Java using the 1.8 JDK in the context of a school project.
+You will need a java 1.8 JDK
 
 ## Starting the Application
 
